@@ -3,8 +3,6 @@ fn main() {}
 // Pass all tests!
 #[cfg(test)]
 mod tests {
-    use merklelib::merkle::create_next_level::create_next_level;
-    use merklelib::merkle::hash_input::hash_input;
     use merklelib::merkle::merkle_root::merkle_root;
     #[test]
     fn input_0() {
