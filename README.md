@@ -1,4 +1,4 @@
-![](test_results.png)
+![](tests.png)
 
 # Patika.dev Community Gaming Solana & Rust Practicum
 
